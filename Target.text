@@ -1,0 +1,7 @@
+In this project we just have to create the Rest api 
+
+-> GET /users  - show users in respinse
+-> GET / api/ users - send the json data
+-> Post/ api/ user  - add user in the file 
+-> patch/ api/ user  - update user based on id
+-> delete/ api/ user  - delete user from the file based on id and name
