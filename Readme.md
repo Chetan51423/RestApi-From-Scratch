@@ -49,7 +49,7 @@ Response:
     // More users...
 ]
 ```
-#### GET /api/users/:id
+### GET /api/users/:id
 Retrieve details of a specific user by ID.
 
 GET /api/users/1
@@ -70,7 +70,7 @@ Response:
 ]
 ```
 
-#### POST /api/users
+### POST /api/users
 Create a new user.
 
 ```json
@@ -103,7 +103,7 @@ Response:
 ]
 ```
 
-#### PATCH /api/users/:id
+### PATCH /api/users/:id
 Update details of a specific user by ID.
 
 PATCH /api/users/1
@@ -131,7 +131,7 @@ Response:
 ]
 ```
 
-#### DELETE /api/users/:id
+### DELETE /api/users/:id
 Delete a user by ID.
 
 DELETE /api/users/1
@@ -145,6 +145,6 @@ Response:
 ```
 
 
-### Contributing 
+## Contributing 
 
 Contributions are welcome🤗! If you'd like to contribute to this project, please follow the guidelines in 
